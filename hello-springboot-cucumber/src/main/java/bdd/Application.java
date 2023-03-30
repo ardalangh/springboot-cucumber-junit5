@@ -1,4 +1,4 @@
-package com.arun.cucumber.hello;
+package bdd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
