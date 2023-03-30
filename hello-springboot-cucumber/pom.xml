@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>com.arun.cucumber</groupId>
-	<artifactId>hello-springboot-cucumber</artifactId>
+	<artifactId>springboot-cucumber-parallel-junit5</artifactId>
 	<version>1.0.0</version>
-	<name>hello-springboot-cucumber</name>
-	<description>Sample project to explain how to setup Cucumber in a Spring Boot Project</description>
+	<name>springboot-cucumber-parallel-junit5</name>
+	<description>springboot-cucumber-parallel-junit5</description>
 
 	<properties>
 		<java.version>1.8</java.version>
